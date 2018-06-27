@@ -1,0 +1,84 @@
+body{
+    background-color: transparent;
+    background-image: url("http://blog.hostbaby.com/wp-content/uploads/2013/07/scuffedstatic_blue1400x900.jpg");
+    background-attachment: fixed;
+}
+.title{
+    text-align: center;
+    background-color: transparent;
+    color: cadetblue;
+    font-size: 300%;
+}
+
+
+
+
+nav{
+    
+     background-color: #0009; 
+    width: 100%;
+    height: 200% ;
+}
+ul {
+    list-style-type: none;
+}
+a {
+    text-decoration: none;
+}
+.listitems{ 
+    text-decoration: none ;
+    color: white;
+    margin: 0px;
+    display: inline-block;
+     font-size: 90%; 
+}
+.portfolio{
+    display: inline-block;
+    margin: 0%;
+    padding: 10% 10% 0% 0%;
+}
+
+.projects{ 
+    display:inline-block;
+    font-size: 120%;
+    padding: 20% 20% 0% 0%; 
+    box-lines: 5% 5% 5% 5%;
+    position: relative;
+} 
+
+.aboutme{
+    background-color: #0009;
+    width: 100%;
+    height: 100%;
+    position: relative ; 
+    padding-top: 5%;
+}
+ 
+p{ 
+    color: cadetblue;
+}
+.test{
+    background-image: url(http://www.ced.org/images/uploads/chicago-skyline.png);
+    width: 100%;
+    height: 620px;
+    font-style: italic;
+    position: relative;
+    background-position: bottom ;
+    background-repeat: no-repeat ;
+    background-size: 1280px 398px;
+    z-index: 1;
+    text-align: center;
+    padding-top: 5%;
+}
+#container{
+    margin-top: 5%;
+    position: relative;
+
+}
+.linkedin{
+    border: 5in solid cadetblue;
+}
+
+
+
+
