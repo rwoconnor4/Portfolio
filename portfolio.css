@@ -79,7 +79,9 @@ p{
     border: 5in solid cadetblue;
 }
 
-.wallst{
-    height: 50%;
-    width: 50%;
+.img-fluid:hover {
+    opacity: 1;
+}
+.img-fluid{
+opacity: .4;
 }
